@@ -1,0 +1,426 @@
+[
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1525207591995,
+            "changeTime": 1525207591995,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1525207591995,
+            "changeTime": 1525207591995,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1525210357558,
+            "changeTime": 1525210357558,
+            "contentHash": "60e99e3a504f34f71b9cdd9bf5b1ef6565cbf0ee"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1525207591995,
+            "changeTime": 1525207591995,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1525207688163,
+            "changeTime": 1525207688163,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects/Solar_Panel_Monitor__e/Solar_Panel_Monitor__e.object-meta.xml",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects/Solar_Panel_Monitor__e/Solar_Panel_Monitor__e.object-meta.xml",
+            "isDirectory": false,
+            "size": 301,
+            "modifiedTime": 1525208229316,
+            "changeTime": 1525208229316,
+            "contentHash": "7e7d13e94f8aa39ce170516d6c365c16bbbeebe3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects/Solar_Panel_Monitor__e/fields/Device_Id__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects/Solar_Panel_Monitor__e/fields/Device_Id__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 460,
+            "modifiedTime": 1525208229317,
+            "changeTime": 1525208229317,
+            "contentHash": "6119212babc84f0cd1f2b674604203b2516a8127",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects/Solar_Panel_Monitor__e/fields/Health__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects/Solar_Panel_Monitor__e/fields/Health__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 484,
+            "modifiedTime": 1525208229317,
+            "changeTime": 1525208229317,
+            "contentHash": "c2e8ba1023cba75235e3b8578966c6ecd10500fd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects/Asset/fields/Critical_Threshold__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects/Asset/fields/Critical_Threshold__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 444,
+            "modifiedTime": 1525208229321,
+            "changeTime": 1525208229321,
+            "contentHash": "0c2f68d875c495226225655b26a75826c17cccc2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects/Asset/fields/Health__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects/Asset/fields/Health__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 421,
+            "modifiedTime": 1525208229321,
+            "changeTime": 1525208229321,
+            "contentHash": "94e4190f3675afcc17fbd2e1243206496c9c8f59",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects/Asset/fields/Solar_Panel_Serial_Number__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects/Asset/fields/Solar_Panel_Serial_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 433,
+            "modifiedTime": 1525208229321,
+            "changeTime": 1525208229321,
+            "contentHash": "239ea56669d7eb3c0e7c6835432e5f10a9d15383",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects/Asset/fields/Warning_Threshold__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects/Asset/fields/Warning_Threshold__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 442,
+            "modifiedTime": 1525208229322,
+            "changeTime": 1525208229322,
+            "contentHash": "eba971c48f4a00e3dab54d8ec73e872d2b4b3266",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/layouts/Asset-Asset Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/layouts/Asset-Asset Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 6031,
+            "modifiedTime": 1525208229326,
+            "changeTime": 1525208229326,
+            "contentHash": "427db3a3c3a9e38360a505329ea6af393286f6b3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18650,
+            "modifiedTime": 1525208229336,
+            "changeTime": 1525208229336,
+            "contentHash": "64490a2d4f845f545217d708a0bcf7a1e60ab329",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5593,
+            "modifiedTime": 1525208229338,
+            "changeTime": 1525208229338,
+            "contentHash": "d912e906856a3df0f5ef7abe5bbc4e87f03f3425",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5255,
+            "modifiedTime": 1525208229340,
+            "changeTime": 1525208229340,
+            "contentHash": "a7a8d207b29ead06872ab1ab150f89292d2f6b19",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5255,
+            "modifiedTime": 1525208229351,
+            "changeTime": 1525208229351,
+            "contentHash": "a7a8d207b29ead06872ab1ab150f89292d2f6b19",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/iot/Solar_Panel_Context.orchestrationContext-meta.xml",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/iot/Solar_Panel_Context.orchestrationContext-meta.xml",
+            "isDirectory": false,
+            "size": 667,
+            "modifiedTime": 1525208229353,
+            "changeTime": 1525208229353,
+            "contentHash": "68186eb9bd456b35cd449e7ef5466006031b37e2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects/Solar_Panel_Monitor__e",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects/Solar_Panel_Monitor__e",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1525208229316,
+            "changeTime": 1525208229316,
+            "contentHash": "724ae34f9b0708e7fc8ac7390a151a35f4877f50",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1525208229321,
+            "changeTime": 1525208229321,
+            "contentHash": "d039443a3ecfa7eeb93ab456286c3621a76d4177",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects/Solar_Panel_Monitor__e/fields",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects/Solar_Panel_Monitor__e/fields",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1525208229317,
+            "changeTime": 1525208229317,
+            "contentHash": "71b0a4741ff9a107b210e685514ce99f2166ce75",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects/Asset/fields",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects/Asset/fields",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1525208229321,
+            "changeTime": 1525208229321,
+            "contentHash": "c86ebc8615972552692ce71c092a9353e65d8fd0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects/Asset",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/objects/Asset",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1525208229321,
+            "changeTime": 1525208229321,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1525208229325,
+            "changeTime": 1525208229325,
+            "contentHash": "d14980dc44236d05ed941e52efaeca19c0607a28",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1525208229351,
+            "changeTime": 1525208229351,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/iot",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/iot",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1525210357560,
+            "changeTime": 1525210357560,
+            "contentHash": "0915481cfb7680e59965231dc82f73f12ead38e9"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/flows/IoTFlowSolar_Panels-3.flow-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/flows/IoTFlowSolar_Panels-3.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 155520,
+            "modifiedTime": 1525210357555,
+            "changeTime": 1525210357555,
+            "contentHash": "eaf1e00ebdd2119836fc24c5bc5a0f622ccf6a63"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/flowDefinitions/IoTFlowSolar_Panels.flowDefinition-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/flowDefinitions/IoTFlowSolar_Panels.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 171,
+            "modifiedTime": 1525210357558,
+            "changeTime": 1525210357558,
+            "contentHash": "b72280af1d1912b328d015863cd91e354e6e492f"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/iot/Solar_Panels.orchestration-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/iot/Solar_Panels.orchestration-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 291,
+            "modifiedTime": 1525210357559,
+            "changeTime": 1525210357559,
+            "contentHash": "e231bf0169f6615704a080e922853fc8b4ee6094"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/iot/Solar_Panels.orchestration",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/iot/Solar_Panels.orchestration",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4398,
+            "modifiedTime": 1525210357560,
+            "changeTime": 1525210357560,
+            "contentHash": "ce124537cd9c1bd43668ca418951337f26e5a3e2"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/flows",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/flows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1525210357554,
+            "changeTime": 1525210357554,
+            "contentHash": "c64ccd9442742f3aeb39b44c74fd72b2bd4605a1"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/flowDefinitions",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/iot_solar_panels/force-app/main/default/flowDefinitions",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1525210357558,
+            "changeTime": 1525210357558,
+            "contentHash": "85055e8d3b14a928f18a7a3910cda22275e8a57f"
+        }
+    ]
+]
